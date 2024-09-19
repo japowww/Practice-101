@@ -6,6 +6,5 @@ outputText.textContent = inputText.value;
 
 function displayAlert(){
     var inputText = document.getElementById('inputText').value;
-
-
+     alert(`hello` + inputText);
 }
